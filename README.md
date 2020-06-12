@@ -1,2 +1,2 @@
 # yogah
-(a sanskrit word)[https://sanskritdictionary.org/yogah]
+[a sanskrit word](https://sanskritdictionary.org/yogah)
